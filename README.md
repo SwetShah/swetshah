@@ -17,7 +17,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" height=20 width=30> I’m currently pursuing my Master's in Computer Science at Indiana University, Bloomington and I will be graduating in May 2022\
 📈 &nbsp;3.5 years of working development experience building applications using Java, Spring Boot, MongoDB, Solr, ActiveMQ, Consul. \
 💥 &nbsp;I’m currently exploring new technologies and looking to collaborate on any development projects. \
-&nbsp;:desktop_computer: Currently I’m looking for Internships or Full-Time job starting Summer-2022. \
+&nbsp;:desktop_computer: Currently I’m looking for Full-Time jobs starting June-2022. \
 🥊 &nbsp;During free-time: Cricket, Cycling, Trekking, Listening songs, coding challenges, reading books. \
 📫 &nbsp;How to reach me: swetshah1994@gmail.com, 🕸️ https://swetshah.github.io/. \
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/SwetShah/swetshah.github.io/blob/main/SwetShah.pdf) for more details about me. I'm open to feedback and suggestions!
